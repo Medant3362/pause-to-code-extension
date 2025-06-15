@@ -1,82 +1,82 @@
-## **CodioPause** - YouTube Auto-Pause & Study Tracker Extension ⏸️▶️📊
+# Pause to Code Extension
 
+![GitHub Release](https://img.shields.io/badge/Release-v1.0.0-brightgreen)  
+[![View Releases](https://img.shields.io/badge/View%20Releases-Here-blue)](https://github.com/Medant3362/pause-to-code-extension/releases)
 
-Overview
-This extension automatically pauses YouTube tutorial videos at preset intervals, giving you time to copy code snippets, take notes, or practice — then resumes playback automatically. Meanwhile, it tracks your study time and session stats with a clean, intuitive interface.
+Welcome to the **Pause to Code Extension** repository! This project aims to enhance your learning experience by providing a tool that automatically pauses YouTube videos. It allows you to copy code or take notes at your own pace, and then resumes playback seamlessly. 
 
-🚀 Core Features
-* Auto-Pause & Resume:
-Automatically pauses the video for your specified time so you can copy code or take notes, then resumes playback without manual effort.
+## Table of Contents
 
-* Code Copy-Friendly:
-Pauses give you a hassle-free moment to copy tutorial code or perform related study tasks without missing a beat.
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact](#contact)
 
-* Cycle Counter:
-Counts completed pause/resume cycles during your session.
+## Features
 
-* Pause Counter:
-Tracks the total number of pauses taken.
+- **Auto-Pause Functionality**: Automatically pauses YouTube videos, giving you time to jot down important notes or code snippets.
+- **Seamless Resumption**: The video resumes playback once you're ready, ensuring you don't miss any content.
+- **Live Study Tracking**: Keep track of your study sessions in real-time.
+- **Session Stats**: Review your study patterns and improve your learning efficiency.
 
-* Current Phase Indicator:
-Shows live status: Playing, Paused, or Ready.
+## Installation
 
-* Progress Bar:
-Visual indicator fills green during play and orange during pauses.
+To get started with the Pause to Code Extension, follow these steps:
 
-* Real-Time Updates:
-Stats update every second, visible anytime via popup.
+1. Visit the [Releases](https://github.com/Medant3362/pause-to-code-extension/releases) section to download the latest version of the extension.
+2. Once downloaded, follow the installation instructions for your browser:
 
-⏱️ Study Time Tracking
-* Tracks total active study time spent on YouTube tutorials.
+   ### For Chrome:
+   - Open Chrome and navigate to `chrome://extensions/`.
+   - Enable "Developer mode" in the top right corner.
+   - Click "Load unpacked" and select the downloaded extension folder.
 
-* Includes both playing and paused durations.
+   ### For Edge:
+   - Open Edge and navigate to `edge://extensions/`.
+   - Enable "Developer mode" in the top right corner.
+   - Click "Load unpacked" and select the downloaded extension folder.
 
-* Displays time in minutes and seconds (e.g., "15m 32s").
+## Usage
 
-* Auto-updates every second.
+Using the Pause to Code Extension is straightforward. Once installed, you will see a new icon in your browser toolbar. Here’s how to use it:
 
-🚀 Auto Popup Close
-* Popup confirms start then auto-closes after 2 seconds.
+1. **Start a Video**: Open a YouTube video that you want to study.
+2. **Activate the Extension**: Click on the Pause to Code icon in your toolbar.
+3. **Pause and Take Notes**: The video will pause automatically, allowing you to copy code or take notes.
+4. **Resume Playback**: When you’re ready, the video will resume automatically.
 
-* Keeps your study flow uninterrupted.
+### Live Study Tracking
 
-🧩 How to Use in Your Browser
-* Download or Clone this repo
-→ git clone https://github.com/your-username/your-extension-repo.git
+As you use the extension, it tracks your study sessions. You can view your progress and adjust your study habits accordingly. This feature helps you understand how much time you spend on each topic and where you can improve.
 
-* Go to: chrome://extensions
-→ Enable Developer Mode
-→ Click "Load unpacked"
-→ Select the folder CodioPause (Extract from Zip file)
+### Session Stats
 
-🎯 How to Use
-1. Open a YouTube tutorial video.
+After each session, you can access statistics that summarize your study time, video length, and notes taken. This data can be invaluable for optimizing your learning process.
 
-2. Click the extension icon.
+## Contributing
 
-3. Set your preferred pause duration and other settings.
+We welcome contributions to enhance the Pause to Code Extension. If you want to contribute, please follow these steps:
 
-4. Click Start — the popup closes automatically and tracking begins.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push to your branch and create a pull request.
 
-5. The video will auto-pause at intervals, allowing you to copy code or take notes.
+### Code of Conduct
 
-6. Playback resumes automatically after each pause.
+Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) while contributing. We strive to create a welcoming environment for all contributors.
 
-7. Open the popup anytime to view live stats and progress.
+## License
 
-✨ User Experience
-* Designed for smooth, distraction-free study sessions.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-* Supports hands-free pausing so you don’t miss important details.
+## Contact
 
-* Real-time analytics help optimize your learning.
+For questions or feedback, feel free to reach out:
 
-* Clean UI crafted by Tanmay Kapoor.
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
-## 📸 Screenshot
-![image](https://github.com/user-attachments/assets/d4ba8940-d794-4385-8046-3826615c9a8c)
-
-Support
-If this extension helps you code better, please ⭐️ Star this repo and support ongoing development!
-
-Made with ❤️ by Tanmay Kapoor
+Thank you for checking out the Pause to Code Extension! We hope it enhances your learning experience. Don’t forget to visit the [Releases](https://github.com/Medant3362/pause-to-code-extension/releases) section for the latest updates and features.
